@@ -1,0 +1,11 @@
+[Initialization : 127.357ms]
+Conjugate Gradients terminated after 256 iterations; residual norm (nu) = 0.000975892
+[Total ConjugateGradients time is : 105360ms]
+[InnerProduct() on line 4, : Time = 29.4401ms]
+[Combine Laplacian with InnerProduct() on line 6 : Time = 38542.9ms]
+[Combine Copy with InnerProduct on line 13 : Time = 16775.4ms]
+[Saxpy() on line 2, 9-12 : Time = 277.797ms]
+[Combine two Saxpy on line 16 : Time = 23370.1ms]
+[Norm() on line 2 : Time = 54.6536ms]
+[Combine Saxpy with Norm on line 8 : Time = 26128.1ms]
+[Copy() on line 4 : Time = 64.0731ms]

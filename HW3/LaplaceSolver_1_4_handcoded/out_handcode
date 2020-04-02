@@ -1,0 +1,28 @@
+[Initialization : 29666.8ms]
+Residual norm (nu) after 0 iterations = 1
+Residual norm (nu) after 1 iterations = 0.720741
+Residual norm (nu) after 2 iterations = 0.503969
+Residual norm (nu) after 3 iterations = 0.316996
+Residual norm (nu) after 4 iterations = 0.167438
+Residual norm (nu) after 5 iterations = 0.114786
+Residual norm (nu) after 6 iterations = 0.0673757
+Residual norm (nu) after 7 iterations = 0.0423407
+Residual norm (nu) after 8 iterations = 0.0429278
+Residual norm (nu) after 9 iterations = 0.0358568
+Residual norm (nu) after 10 iterations = 0.0317483
+Residual norm (nu) after 11 iterations = 0.0258011
+Residual norm (nu) after 12 iterations = 0.0200022
+Residual norm (nu) after 13 iterations = 0.0147499
+Residual norm (nu) after 14 iterations = 0.0103051
+Residual norm (nu) after 15 iterations = 0.00810948
+Residual norm (nu) after 16 iterations = 0.00639989
+Residual norm (nu) after 17 iterations = 0.00574771
+Residual norm (nu) after 18 iterations = 0.00474403
+Residual norm (nu) after 19 iterations = 0.00384193
+Residual norm (nu) after 20 iterations = 0.00263515
+Residual norm (nu) after 21 iterations = 0.0021436
+Residual norm (nu) after 22 iterations = 0.00160884
+Residual norm (nu) after 23 iterations = 0.00102262
+Conjugate Gradients terminated after 23 iterations; residual norm (nu) = 0.000850816
+[Total Laplacian Time : 567.838ms]
+[Total Saxpy Time : 449.205ms]
